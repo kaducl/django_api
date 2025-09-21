@@ -19,7 +19,8 @@ The API implements the four fundamental CRUD (Create, Read, Update, Delete) oper
     Update a post: Allows updating the title and content of an existing post.
 
     Delete a post: Removes a post from the database.
-    
+
+    Pagination: List results are paginated (10 items per page) to ensure high performance and scalability.
 
 ► Core Technologies
 
@@ -96,6 +97,8 @@ A API implementa as quatro operações fundamentais de um CRUD (Create, Read, Up
     Atualizar um post: Permite a atualização do title e content de um post existente.
 
     Deletar um post: Remove um post do banco de dados.
+
+    Paginação: Os resultados das listas são paginados (10 itens por página) para garantir performance e escalabilidade.
 
 ► Ferramentas Utilizadas
 
